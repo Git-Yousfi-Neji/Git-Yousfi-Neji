@@ -1,15 +1,15 @@
 Hi 👋 My name is Yousfi Neji
 ============================
 
-Automotive Test & Validation Engineer
+Embedded Software Engineer
 -------------------------------------
 
 Aiming for a successful international experience, I am a motivated engineer that seeks to generate an added value and deliver good results, to boost my skills and grow professionally.
 
-* 🌍  I'm based in Tunisie
+* 🌍  I'm based in Tunis
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/yousfi-neji/)
 * ✉️  You can contact me at [yousfineji1@gmail.com](mailto:yousfineji1@gmail.com)
-* 🧠  I'm learning JAVA.
+* 🧠  I'm learning C/C++.
 * 🤝  I'm open to collaborating on interesting projects.
 
 <a href="https://www.twitter.com/NejiYousfi" target="_blank" rel="noreferrer"><img
