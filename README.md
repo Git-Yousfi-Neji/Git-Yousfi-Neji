@@ -1,5 +1,4 @@
-## Hey there! 👋 I'm Neji Yousfi, an Embedded Software Engineer 🚀============================
-
+## Hey there! 👋 I'm Neji Yousfi, an Embedded Software Engineer 🚀
 -------------------------------------
 
 Aiming for a successful international experience, I am a motivated engineer that seeks to generate an added value and deliver good results, to boost my skills and grow professionally.
@@ -11,22 +10,15 @@ Aiming for a successful international experience, I am a motivated engineer that
 * 🤝  I'm open to collaborating on interesting projects.
 
 <a href="https://www.twitter.com/NejiYousfi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/NejiYousfi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/NejiYousfi?logo=X&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
-### Skills
-<p align="left">
-  <img src="C_ICON_URL" width="36" height="36" alt="C" />
-  <img src="CPP_ICON_URL" width="36" height="36" alt="C++" />
-  <!-- Add icons for other skills -->
-</p>
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 </p>
