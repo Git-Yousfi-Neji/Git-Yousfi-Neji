@@ -1,14 +1,12 @@
-Hi 👋 My name is YOUSFI Neji
-============================
+## Hey there! 👋 I'm Neji Yousfi, an Embedded Software Engineer 🚀============================
 
-Embedded Software Engineer
 -------------------------------------
 
 Aiming for a successful international experience, I am a motivated engineer that seeks to generate an added value and deliver good results, to boost my skills and grow professionally.
 
-* 🌍  I'm based in Tunis
-* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/yousfi-neji/)
-* ✉️  You can contact me at [yousfineji1@gmail.com](mailto:yousfineji1@gmail.com)
+* 🌍 Based in Tunis
+* 🖥️ Portfolio: [LinkedIn](http://www.linkedin.com/in/yousfi-neji/)
+* ✉️ Contact: [yousfineji1@gmail.com](mailto:yousfineji1@gmail.com)
 * 🧠  I'm learning C/C++.
 * 🤝  I'm open to collaborating on interesting projects.
 
@@ -17,6 +15,12 @@ src="https://img.shields.io/twitter/follow/NejiYousfi?logo=twitter&style=for-the
 /></a>
 
 ### Skills
+### Skills
+<p align="left">
+  <img src="C_ICON_URL" width="36" height="36" alt="C" />
+  <img src="CPP_ICON_URL" width="36" height="36" alt="C++" />
+  <!-- Add icons for other skills -->
+</p>
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
